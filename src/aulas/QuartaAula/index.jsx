@@ -6,12 +6,12 @@ export function QuartaAula() {
 
     const componentsFinded = [
         {
-            title: 'Vídeo Component',
+            title: 'RTX 4090',
             image: image,
             text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores, commodi?'
         },
         {
-            title: 'Input Component',
+            title: 'RTX 3080',
             image: image2,
             text: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est, id.'
         }
