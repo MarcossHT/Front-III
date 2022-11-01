@@ -1,4 +1,5 @@
-import { DHGames } from './pages/DHGames'
+import { SetimaAula } from './aulas/SetimaAula'
+// import { DHGames } from './pages/DHGames'
 // import { QuintaAula } from './aulas/QuintaAula'
 // import { QuartaAula } from './aulas/QuartaAula'
 // import { SegundaAula } from './aulas/SegundaAula'
@@ -9,7 +10,7 @@ function App() {
   
   return (
     <>
-      <DHGames />
+      <SetimaAula />
     </>
   )
 }
