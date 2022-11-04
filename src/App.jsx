@@ -1,4 +1,5 @@
-import { SetimaAula } from './aulas/SetimaAula'
+import { OitavaAula } from './aulas/OitavaAula'
+// import { SetimaAula } from './aulas/SetimaAula'
 // import { DHGames } from './pages/DHGames'
 // import { QuintaAula } from './aulas/QuintaAula'
 // import { QuartaAula } from './aulas/QuartaAula'
@@ -10,7 +11,7 @@ function App() {
   
   return (
     <>
-      <SetimaAula />
+      <OitavaAula />
     </>
   )
 }
