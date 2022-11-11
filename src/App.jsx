@@ -1,4 +1,5 @@
-import { OitavaAula } from './aulas/OitavaAula'
+import { Checkpoint } from './aulas/Checkpoint'
+// import { OitavaAula } from './aulas/OitavaAula'
 // import { SetimaAula } from './aulas/SetimaAula'
 // import { DHGames } from './pages/DHGames'
 // import { QuintaAula } from './aulas/QuintaAula'
@@ -11,7 +12,7 @@ function App() {
   
   return (
     <>
-      <OitavaAula />
+      <Checkpoint />
     </>
   )
 }
