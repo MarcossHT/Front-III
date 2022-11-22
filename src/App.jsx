@@ -1,4 +1,4 @@
-import { Checkpoint } from './aulas/Checkpoint'
+// import { Checkpoint } from './aulas/Checkpoint'
 // import { OitavaAula } from './aulas/OitavaAula'
 // import { SetimaAula } from './aulas/SetimaAula'
 // import { DHGames } from './pages/DHGames'
@@ -7,12 +7,12 @@ import { Checkpoint } from './aulas/Checkpoint'
 // import { SegundaAula } from './aulas/SegundaAula'
 // import { TerceiraAula } from './aulas/TerceiraAula'
 // import { Login } from './pages/Login/index'
-
+import{ DecimaQuintaAula } from './aulas/DecimaQuintaAula'
 function App() {
   
   return (
     <>
-      <Checkpoint />
+      <DecimaQuintaAula/>
     </>
   )
 }
